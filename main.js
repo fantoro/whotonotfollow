@@ -17,7 +17,8 @@ setInterval(() => {
 			block.parentNode.removeChild(block.nextElementSibling);
 			block.parentNode.removeChild(block.nextElementSibling);
 			block.parentNode.removeChild(block.nextElementSibling);
+			block.parentNode.removeChild(block.nextElementSibling);
 			block.parentNode.removeChild(block);
 		}
 	}
-},100);
+},500);
