@@ -6,7 +6,7 @@ function removeAllElements(col) {
 }
 
 setInterval(() => {
-	removeAllElements(document.getElementsByClassName("css-1dbjc4n r-1uaug3w r-1uhd6vh r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1bro5k0 r-1udh08x"));
+	removeAllElements(document.getElementsByClassName("css-1dbjc4n r-1ysxnx4 r-k0dy70 r-t23y2h r-1phboty r-rs99b7 r-dr54s0 r-1bro5k0 r-1udh08x"));
 },100);
 
 /*
