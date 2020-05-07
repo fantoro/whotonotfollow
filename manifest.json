@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Who to NOT follow",
-	"version": "1.0",
+	"version": "1.0.1",
 
 	"description": "Removes the follow suggestions from Twitter.",
 
